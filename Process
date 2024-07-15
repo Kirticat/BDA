@@ -1,0 +1,7 @@
+step 1 install vm ware
+step 2 install cloudera 
+step 3 in vm vare < file < import appliance<select cloudera 
+step 4 setting < system < processor < turn 1 cpu to 2 cpu
+step 5 setting < system < motherboard < 5120 mb
+step 6 setting < network < nat to bridged adapter OK
+START
