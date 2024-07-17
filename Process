@@ -5,3 +5,11 @@ step 4 setting < system < processor < turn 1 cpu to 2 cpu
 step 5 setting < system < motherboard < 5120 mb
 step 6 setting < network < nat to bridged adapter OK
 START
+
+open command prompt 
+Command 1  sudo /home/cloudera/cloudera-manager --express --force
+click on link if not then enter link in same browser
+and enter password and username
+then click HDFS 
+
+Practical executed successfully!!!
