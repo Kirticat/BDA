@@ -1,0 +1,7 @@
+1. sudo yum install sqoop
+
+2. sqoop help
+
+3. sqoop import
+
+4. sqoop version
