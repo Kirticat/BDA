@@ -1,0 +1,7 @@
+1. sudo nano /etc/yum.repos.d/mongodb.repo
+
+2. sudo yum install --nogpgcheck mongodb-org
+
+3. sudo service mongod restart
+
+4. mongo
